@@ -1,0 +1,24 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "0.1.0",
+  "description": "The freeCodeCamp API project 'Request Header Parser Microservice'",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanmax/freeCodeCamp-request-header-parser-microservice.git"
+  },
+  "author": "Stephan Max <stephan.max@gmail.com>",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanmax/freeCodeCamp-request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/stephanmax/freeCodeCamp-request-header-parser-microservice#readme"
+}
